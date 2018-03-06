@@ -1,0 +1,25 @@
+{
+  "name": "libre-budget",
+  "version": "1.0.0",
+  "description": "Open source users need a budget",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordancrane/librebudget.git"
+  },
+  "keywords": [
+    "budget"
+  ],
+  "author": "Jordan Crane",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jordancrane/librebudget/issues"
+  },
+  "homepage": "https://github.com/jordancrane/librebudget#readme",
+  "devDependencies": {
+    "electron": "^1.8.3"
+  }
+}
